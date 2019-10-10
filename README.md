@@ -1,0 +1,2 @@
+# Library_Management_System
+Library_Management_System is an android application for Institute of southern Punjab Students. App will display issued books of logged in student. Moreover a student can  search books available in library. Student can logged in through their email and password.Password would be sent to student to their email. App have back panel in php which would be used by Librarian for adding, managing, issuing books. 
